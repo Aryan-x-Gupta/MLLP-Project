@@ -72,9 +72,15 @@ with `python scripts\generate_deliverables.py`. Add group names/roll numbers,
 screenshots from the app, the GitHub URL, and a recorded demonstration before
 submission.
 
+
 ## References
 
 - RapidOCR: https://github.com/RapidAI/RapidOCR
 - OpenCV: https://opencv.org/
 - Hugging Face FLAN-T5: https://huggingface.co/google/flan-t5-small
 - Streamlit: https://streamlit.io/
+
+## References and GitHub Repository Link
+
+**Repository:** [[https://github.com/Aryan-x-Gupta/MLLP-Project](https://github.com/Aryan-x-Gupta/MLLP-Project)]  
+**Video:** [[https://www.loom.com/share/756ffb99d9d94b01bc68c28e4bfd38a4](https://www.loom.com/share/756ffb99d9d94b01bc68c28e4bfd38a4)]  
