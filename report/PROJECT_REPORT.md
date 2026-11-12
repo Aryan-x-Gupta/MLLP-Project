@@ -66,7 +66,7 @@ OCR, and accessibility integrations.
 
 ## 8. References and GitHub Repository Link
 
-**Repository:** [Insert GitHub URL]  
+**Repository:** [[Insert GitHub URL](https://github.com/Aryan-x-Gupta/MLLP-Project)]  
 **Video:** [Insert accessible video URL]  
 References are listed in the repository README and include RapidOCR, OpenCV,
 Streamlit, and Hugging Face FLAN-T5.
