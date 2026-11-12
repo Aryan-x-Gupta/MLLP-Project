@@ -6,8 +6,7 @@
 ## 1. Title and Group Details
 
 **Title:** ChartScribe: Chart-to-Text Summarisation Using Computer Vision, OCR, and LLMs  
-**Members:** [Name — Roll number]  
-**Contributions:** [Member 1], [Member 2], [Member 3], [Member 4]
+**Members:** Aryan Gupta (2304015), Abhigyan Pal(2330205) 
 
 ## 2. Problem Statement and Objectives
 
