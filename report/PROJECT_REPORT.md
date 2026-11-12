@@ -66,7 +66,7 @@ OCR, and accessibility integrations.
 
 ## 8. References and GitHub Repository Link
 
-**Repository:** [[Insert GitHub URL](https://github.com/Aryan-x-Gupta/MLLP-Project)]  
-**Video:** [Insert accessible video URL]  
+**Repository:** [[https://github.com/Aryan-x-Gupta/MLLP-Project](https://github.com/Aryan-x-Gupta/MLLP-Project)]  
+**Video:** [[https://www.loom.com/share/756ffb99d9d94b01bc68c28e4bfd38a4](https://www.loom.com/share/756ffb99d9d94b01bc68c28e4bfd38a4)]  
 References are listed in the repository README and include RapidOCR, OpenCV,
 Streamlit, and Hugging Face FLAN-T5.
